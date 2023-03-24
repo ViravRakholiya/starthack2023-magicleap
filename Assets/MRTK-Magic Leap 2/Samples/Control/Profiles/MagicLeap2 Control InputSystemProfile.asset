@@ -47,12 +47,12 @@ MonoBehaviour:
     reference: Microsoft.MixedReality.Toolkit.Input.DefaultRaycastProvider, Microsoft.MixedReality.Toolkit.Services.InputSystem
   focusQueryBufferSize: 128
   shouldUseGraphicsRaycast: 1
-  focusIndividualCompoundCollider: 0
+  focusIndividualCompoundCollider: 1
   inputActionsProfile: {fileID: 11400000, guid: e64aa98ebca1cc04cbe5767148af0784,
     type: 2}
   inputActionRulesProfile: {fileID: 11400000, guid: 03945385d89102f41855bc8f5116b199,
     type: 2}
-  pointerProfile: {fileID: 11400000, guid: a838815189e3fbc468ef748c93a73bb1, type: 2}
+  pointerProfile: {fileID: 11400000, guid: 098356d57e67e0f49ae3678e14bd2459, type: 2}
   gesturesProfile: {fileID: 11400000, guid: bd7829a9b29409045a745b5a18299291, type: 2}
   speechCommandsProfile: {fileID: 0}
   enableControllerMapping: 1
